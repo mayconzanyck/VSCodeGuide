@@ -1,0 +1,35 @@
+# Pastas do VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+*.jar
+*.war
+
+# C#, .NET
+bin/
+obj/
+
+# Outros
+.env
