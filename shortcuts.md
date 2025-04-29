@@ -1,4 +1,4 @@
-## ✨ Atalhos Essenciais
+## Atalhos Essenciais
 
 - **Ctrl + Shift + S** → Salvar todos os arquivos
 - **Ctrl + Shift + P** → Abre a paleta de comandos
